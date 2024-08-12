@@ -8,4 +8,5 @@ app.get('/', (req, res) => {
 
 app.listen(6336, () => {
     console.log('Server started on http://localhost:6336');
+    // not accessible outside the container--hence the mapping
 });
