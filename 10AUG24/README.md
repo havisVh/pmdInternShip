@@ -2,7 +2,7 @@
 #### 10/08/2024
 
 ## Aim:
-> to setup a docker container to run a simple web page
+    > to setup a docker container to run a simple web page
 
 
 ## Progress:
