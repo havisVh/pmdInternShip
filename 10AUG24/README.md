@@ -10,7 +10,7 @@
 - The app was setup using node.js and the express library
 - The docker image uses node base image
 - check [dockerfile](./dockerfile) for more details
-- also check the [Google Doc](https://shorturl.at/492qu) file with eXtra details, on the contents of the dockerfile and the CLI commands
+- also check the [Google Doc](https://docs.google.com/document/d/19rBepidkRTKtZexFOE7ZEvCLL7__CN65b1gCt4Dx91A/edit?usp=sharing) file with eXtra details, on the contents of the dockerfile and the CLI commands
 ---
 ---
 
